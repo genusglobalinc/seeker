@@ -1,26 +1,13 @@
 # seeker
 
-**Project: seeker**
-**User Experience:**
-Seeker is a cutting-edge application designed to assist users in accurately locating smartphones through innovative social engineering techniques. Users can leverage its seamless integration with external APIs and Instagram for advanced tracking capabilities, making it a valuable tool for location-based investigations and security purposes.
-
-**Key Features:**
-- Accurately locate smartphones using social engineering techniques
-- Seamless integration with external APIs and Instagram for enhanced tracking capabilities
-
-**Tech Stack:**
-- Language: Multiple
-- APIs/Integrations: External API Integration, Instagram Integration
-- Deployment: Render
-
-This README description showcases Seeker as a powerful tool for users seeking to enhance their smartphone tracking capabilities through social engineering, making it an essential asset for security professionals and investigators.
+Seeker is a powerful application that empowers users to pinpoint smartphone locations through innovative social engineering strategies, making it invaluable for location-based inquiries and security measures. With seamless integration with external APIs and Instagram, users can conduct advanced tracking operations effortlessly. Developed using CSS, Seeker offers a user-friendly interface for efficient smartphone location tracking, ensuring a seamless and effective experience for investigative and security purposes.
 
 ![Language](https://img.shields.io/badge/language-CSS-blue)
 ![Status](https://img.shields.io/badge/status-Portfolio-Ready-green)
 
 ## ✨ Key Features
 
-- **Integrations:** External API Integration, Instagram Integration
+- **Integrations:** External API Integration
 - Unity Game Engine
 
 ## 🛠️ Tech Stack
@@ -37,7 +24,7 @@ This project is configured for deployment on **Render**.
 ## 📊 Project Statistics
 
 - **Total Files:** 38
-- **Lines of Code:** 42,880
+- **Lines of Code:** 42,886
 - **Primary Language:** CSS
 - **Development Status:** Portfolio-Ready
 
