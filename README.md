@@ -1,6 +1,6 @@
 # seeker
 
-The "seeker" application is a location tracking tool that utilizes social engineering techniques to identify smartphone locations. It integrates with external APIs and Instagram for advanced tracking functionalities. The application is built with CSS and relies on external API integration for its functionality.
+Application. Implements smartphone location tracking using social engineering and external API integration. Built with CSS. Can deploy on Render.
 
 ![Language](https://img.shields.io/badge/language-CSS-blue)
 ![Status](https://img.shields.io/badge/status-Portfolio-Ready-green)
